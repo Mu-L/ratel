@@ -61,7 +61,7 @@ java -jar landlords-client/target/landlords-client-#{version}.jar
 
 Websocket协议的地址为 ``ws://host:port/ratel``，Websocket的端口需要在原端口基础上加1 （如果tcp端口为1024，则ws端口需要为1025）
 ## 划水俱乐部
-QQ群 ``948365095``，划水一时爽，一直划水一直爽！
+QQ群 ``699640715``，划水一时爽，一直划水一直爽！
 
 ## 生态
  - [go-ratel-client](https://github.com/ZuoFuhong/go-ratel)
